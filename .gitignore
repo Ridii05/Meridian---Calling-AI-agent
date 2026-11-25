@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+
+backend/clinic.db
+backend/clinic.db-shm
+backend/clinic.db-wal
+
+Video_Demo_NexovAI.mkv
+
+**/node_modules/
+**/.venv/
+**/venv/
+**/__pycache__/
+*.py[cod]
+**/dist/
